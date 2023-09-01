@@ -35,7 +35,7 @@ The results will be saved in a directory named `Remy_TBS_group_analysis`. Inside
 
 ## Support
 
-For issues, questions, or modifications to this script, please raise an issue in this GitHub repository or contact the repository owner/maintainer.
+For issues, questions, or modifications to this script, please raise an issue in this GitHub repository or contact me.
 
 ## References
 
