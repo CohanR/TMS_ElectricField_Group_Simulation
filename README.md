@@ -1,9 +1,13 @@
 # TMS_ElectricField_Group_Simulation
 
+# Introduction
+The induced electric field strength at targeted cortical regions (by transcranial magnetic stimulation) is influenced by various biophysical parameters including tissue density (e.g., scalp, skull, meninges, and CSF), scalp-cortex distance, gyral patterns, and tissue conductivity.
+
+In the context of neuromodulation research and clinical applications, understanding the magnitude and distribution of these induced electric fields is vital. It aids in making informed decisions regarding the stimulation protocols and understanding the effects and safety of the procedure.
 
 # Group Analysis with SimNIBS
 
-This repository contains a Python script to perform group analysis of TMS simulations using SimNIBS for specific subjects, both pre and post some treatment or intervention.
+This repository contains a Python script to perform group analysis of TMS simulations using SimNIBS for specific subjects, both pre and post some treatment.
 
 ## Description
 
