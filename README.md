@@ -37,10 +37,6 @@ The results will be saved in a directory named `Remy_TBS_group_analysis`. Inside
 2. Ensure backup of any previous simulations as this script might overwrite the results if executed multiple times.
 3. Adjust coil parameters (`didt`, `pos`, `moments`) as per your requirements.
 
-## Support
-
-For issues, questions, or modifications to this script, please raise an issue in this GitHub repository or contact me.
-
 ## References
 
 - [SimNIBS documentation](http://www.simnibs.org/documentation)
