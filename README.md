@@ -42,5 +42,6 @@ For issues, questions, or modifications to this script, please raise an issue in
 - [SimNIBS documentation](http://www.simnibs.org/documentation)
 - [TMS coil definitions in SimNIBS](http://www.simnibs.org/doc/simnibs/_build/html/coil_files.html)
 
+![TMS e-field simulation Simulation by Remy Cohan](e_field_simulation_Remy.png)
 
 
